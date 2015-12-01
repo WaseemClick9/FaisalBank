@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8956FB4F-99C8-4AD1-9519-E601BB1B3CCF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FaisalBank</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F8C4871F7E2D1653334E82D488EAD5B70A8B4A0</key>
+		<string>https://github.com/WaseemClick9/FaisalBank.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FaisalBank.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F8C4871F7E2D1653334E82D488EAD5B70A8B4A0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WaseemClick9/FaisalBank.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F8C4871F7E2D1653334E82D488EAD5B70A8B4A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F8C4871F7E2D1653334E82D488EAD5B70A8B4A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FaisalBank</string>
+		</dict>
+	</array>
+</dict>
+</plist>
